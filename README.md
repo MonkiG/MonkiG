@@ -3,7 +3,7 @@
     <span align="center" style="font-size: 60%">Softwer Engineer student &middot     JavaScript/TypeScript  web developer</span> <br/>
 </h1>
 
-- 📝 I'm Currently learning **Docker 🐋** and **Rust 🦀**
+- 📝 I'm Currently learning **Docker 🐋** and <img width="30px" src="https://go.dev/images/go-logo-white.svg" alt="Golang logo">
 - 📖 [My Portfolio](https://monki-portfolio.vercel.app/) 
 
 ## Contact me
