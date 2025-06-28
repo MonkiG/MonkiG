@@ -8,7 +8,7 @@
 
 ## Contact me
 
-- Linkedin: [Ramón Hernández](www.linkedin.com/in/ramonha)
+- Linkedin: [Ramón Hernández](https://www.linkedin.com/in/ramonha/)
 - Twitter (X): [@ElMonkiG_](https://twitter.com/ElMonkiG_)
   
 ## Stack
